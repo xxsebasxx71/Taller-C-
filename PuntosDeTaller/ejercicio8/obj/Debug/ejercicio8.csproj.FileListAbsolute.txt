@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio8\bin\Debug\ejercicio8.exe.config
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio8\bin\Debug\ejercicio8.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio8\bin\Debug\ejercicio8.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio8\obj\Debug\ejercicio8.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio8\obj\Debug\ejercicio8.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio8\obj\Debug\ejercicio8.pdb

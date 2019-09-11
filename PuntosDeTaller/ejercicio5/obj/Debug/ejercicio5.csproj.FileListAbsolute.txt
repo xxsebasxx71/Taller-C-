@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio5\obj\Debug\ejercicio5.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio5\bin\Debug\ejercicio5.exe.config
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio5\bin\Debug\ejercicio5.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio5\bin\Debug\ejercicio5.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio5\obj\Debug\ejercicio5.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\ejercicio2\ejercicio5\obj\Debug\ejercicio5.pdb
